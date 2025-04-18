@@ -9,5 +9,4 @@ public class RestApiTemplateApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(RestApiTemplateApplication.class, args);
 	}
-
 }
